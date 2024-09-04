@@ -1,5 +1,9 @@
-# 💫 About Me:
-💻 Code lover, Laravel enthusiast  <br>🌐 Exploring cloud computing  <br>🎨 Crafting clean UI/UX  <br>📚 Always learning, growing  <br>🤝 Collaborative, team player
+# About Me:
+💻 Passionate about software development, specializing in Laravel
+🌐 Actively exploring advancements in cloud computing
+🎨 Dedicated to designing intuitive and clean UI/UX
+📚 Committed to continuous learning and professional growth
+🤝 Strong collaborator, driven by teamwork and innovation
 
 
 ## 🌐 Socials:
