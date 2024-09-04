@@ -20,6 +20,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+# 📊 Github:  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cupcake-Legend&theme=dark&hide_border=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Cupcake-Legend&icon=2&color=9)](https://visitcount.itsvg.in)
