@@ -1,10 +1,8 @@
 # About Me:
-💻 Passionate about software development, specializing in Laravel
-🌐 Actively exploring advancements in cloud computing
-🎨 Dedicated to designing intuitive and clean UI/UX
-📚 Committed to continuous learning and professional growth
-🤝 Strong collaborator, driven by teamwork and innovation
-
+💻 Passionate about software development, specializing in Laravel  
+🌐 Actively exploring advancements in cloud computing  
+📚 Committed to continuous learning and professional growth  
+🤝 Strong collaborator, driven by teamwork and innovation  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darrengideons) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darrengideon) 
