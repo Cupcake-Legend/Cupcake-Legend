@@ -20,7 +20,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=plastic&logo=tailwindcss&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%23239120.svg?style=plastic&logo=dot-net&logoColor=white)
 
 
 
