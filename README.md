@@ -19,6 +19,9 @@
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23239120.svg?style=for-the-badge&logo=dot-net&logoColor=white)
+
 
 # 📊 Github:  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cupcake-Legend&theme=dark&hide_border=false)<br/>
