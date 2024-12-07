@@ -1,8 +1,16 @@
 # About Me:
-💻 Passionate about software development, specializing in Laravel  
-🌐 Actively exploring advancements in cloud computing  
-📚 Committed to continuous learning and professional growth  
-🤝 Strong collaborator, driven by teamwork and innovation  
+👨‍💻 Software Developer | Full-Stack Development & Cloud Computing  
+
+🚀 Backend Expertise in Laravel, Node.js, and Express.js  
+
+💡 Building Robust APIs and Scalable Solutions with Express.js & Node.js  
+
+📚 Always Learning New Tools and Frameworks to Stay Ahead  
+
+🤝 Strong Team Player, Focused on Collaboration and Problem Solving  
+
+🔧 Crafting Efficient Backend Systems with Best Practices and Cloud Integration  
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darrengideons) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darrengideon) 
@@ -12,6 +20,10 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=plastic)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=plastic)
+![GoogleCloud](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=plastic&logo=Google%20Cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=Firebase&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) 
