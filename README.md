@@ -11,6 +11,11 @@
 
 🔧 Crafting Efficient Backend Systems with Best Practices and Cloud Integration  
 
+🎓 Certifications & Credentials  
+✅ Google Associate Cloud Engineer
+✅ Google Cybersecurity Professional Certificate (V2)  
+✅ MikroTik Certified Network Associate (MTCNA)  
+✅ Komdigi Junior Mobile Programmer  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darrengideon) 
