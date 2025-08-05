@@ -12,7 +12,7 @@
 🔧 Crafting Efficient Backend Systems with Best Practices and Cloud Integration  
 
 🎓 Certifications & Credentials  
-✅ Google Associate Cloud Engineer
+✅ Google Associate Cloud Engineer  
 ✅ Google Cybersecurity Professional Certificate (V2)  
 ✅ MikroTik Certified Network Associate (MTCNA)  
 ✅ Komdigi Junior Mobile Programmer  
