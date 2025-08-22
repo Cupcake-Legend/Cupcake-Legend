@@ -43,9 +43,9 @@
 
 
 # 📊 Github:  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cupcake-Legend&theme=dark&hide_border=false)<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=cupcake-legend&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Cupcake-Legend&icon=2&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/Cupcake-Legend/Cupcake-Legend/blob/output/pacman-contribution-graph-dark.svg)
